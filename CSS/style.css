@@ -19,11 +19,13 @@ img {
 #title1 {
     padding-top: 2%;
     color: pink;
+    padding-bottom: 1%;
 }
 
 #title2 {
-    padding-top: 2%;
+    padding-top: 1%;
     color: palevioletred;
+    padding-bottom: 2%;
 }
 
 .name {
